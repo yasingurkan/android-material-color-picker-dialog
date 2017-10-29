@@ -1,0 +1,6 @@
+<resources>
+    <string name="materialcolorpicker__app_name">Android Material Color Picker Dialog</string>
+
+    <string name="materialcolorpicker__inputColor">Renk: </string>
+    <string name="materialcolorpicker__btnSelectColor">Seç</string>
+</resources>
